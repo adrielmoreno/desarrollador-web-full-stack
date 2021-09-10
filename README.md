@@ -1,2 +1,2 @@
-# desarrollador-web-full-stack
+# Itinerario de Desarrollador Web Full-Stack
 Ejemplos de JavaScript, MySQL y Scrum
